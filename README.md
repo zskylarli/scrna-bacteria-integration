@@ -12,15 +12,15 @@ Preprocessing and replication of Kuchina et al. (2021) results on B.sub data, ba
 Blattman_Ecoli_ Data_Preprocessing.ipynb: 
 Blattman et al. (2021) E. coli dataset preprocessing, principal component analysis, and 2D embeddings to confirm original results and validate presence of exponential and stationary growth stages.
 
-### Blattman_Ecoli_ Data_Preprocessing.ipynb: 
+### Blattman_Ecoli_ Data_Preprocessing.ipynb
 Blattman et al. (2021) E. coli dataset preprocessing, principal component analysis, and 2D embeddings to confirm original results and validate presence of exponential and stationary growth stages.
 
-### Blattman_Ecoli_Trajectory_Inference_and_DEG.ipynb: 
+### Blattman_Ecoli_Trajectory_Inference_and_DEG.ipynb
 Trajectory inference using Wishbone and differentially expressed gene analysis for the Blattman E. coli dataset following preprocessing and clustering. 
 Scanorama_Batch_Correction.ipynb:
 Batch integration of Blattman and Kuchina datasets using Scanorama including dataset preparation, integration, DEG analysis, trajectory inference, clustering, and 2D embeddings.
 
-### Scanorama_Batch_Correction.ipynb:
+### Scanorama_Batch_Correction.ipynb
 Batch integration of Blattman and Kuchina datasets using Scanorama including dataset preparation, integration, DEG analysis, trajectory inference, clustering, and 2D embeddings.
 
 
